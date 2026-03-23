@@ -1,0 +1,6 @@
+2026-03-23 00:34:16 | INFO     | __main__ | === GSE Pipeline starting — 2026-03-23 ===
+2026-03-23 00:34:16 | INFO     | fetch | Fetching GSE live data from https://dev.kwayisi.org/apis/gse/live
+2026-03-23 00:34:18 | INFO     | fetch | Successfully fetched 37 stock records.
+2026-03-23 00:34:18 | INFO     | __main__ | Validation passed 37 records.
+2026-03-23 00:34:18 | INFO     | database | Inserted 37 new price records for 2026-03-23.
+2026-03-23 00:34:18 | INFO     | __main__ | === Pipeline complete — 37 records stored for 2026-03-23 ===
